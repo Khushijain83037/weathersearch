@@ -153,7 +153,7 @@ Follow these steps to run both the frontend and backend locally:
 
 4. **Start the Backend Server**
    ```bash
-   npm start
+   npm run dev
    ```
    By default, it runs on [http://localhost:5000](http://localhost:5000)
 
@@ -166,7 +166,7 @@ Follow these steps to run both the frontend and backend locally:
 
 6. **Start the Frontend**
    ```bash
-   npm run dev
+   npm start
    ```
    It usually runs on [http://localhost:5173](http://localhost:5173)
 
