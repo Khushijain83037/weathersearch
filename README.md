@@ -168,5 +168,5 @@ Follow these steps to run both the frontend and backend locally:
    ```bash
    npm start
    ```
-   It usually runs on [http://localhost:5173](http://localhost:5173)
+   It usually runs on [http://localhost:3000](http://localhost:3000)
 
